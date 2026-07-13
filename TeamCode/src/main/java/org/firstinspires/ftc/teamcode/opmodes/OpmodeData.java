@@ -12,3 +12,4 @@ public class OpmodeData {
         initialPose2D = initPose;
     }
 }
+
